@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+?style=
+<a href="https://wakatime.com/@018be417-d97d-407d-b2cc-1974a776f354"><img src="https://wakatime.com/badge/user/018be417-d97d-407d-b2cc-1974a776f354.svg" alt="Total time coded since Nov 18 2023" /></a>
 <!--
 **erkt-k/erkt-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
