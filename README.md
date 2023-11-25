@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-?style=
-<a href="https://wakatime.com/@018be417-d97d-407d-b2cc-1974a776f354"><img src="https://wakatime.com/badge/user/018be417-d97d-407d-b2cc-1974a776f354.svg" alt="Total time coded since Nov 18 2023" /></a>
-
 <img
   src="https://github.com/erkt-k/erkt-k/blob/main/images/stat.svg"
   alt="My Wakatime Activity"
